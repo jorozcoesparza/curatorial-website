@@ -1,6 +1,7 @@
 body {
    background-color: #e3e3e3; 
    font-family: helvetica;
+
 }
 
 .header {
@@ -14,3 +15,31 @@ body {
     border-radius: 10px;
     background-color: #bbbbbb;
 }
+
+.center-container {
+    position: relative; 
+    height: 100vh; 
+}
+
+.landing-image img {
+    width: 700px;
+    height: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.landing-image:hover::after {
+    content: "ENTER";
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 100px;
+  }
+
