@@ -1,19 +1,22 @@
 body {
    background-color: #e3e3e3; 
    font-family: helvetica;
-
+    align-items: center;
+    display: flex;
+    justify-content: center;
 }
 
 .header {
     display: flex;
     justify-content: space-evenly;
-    margin: 0px;
+    margin-top: 50px;
     padding: 5px;
     border: 0px;
     height: 2vh;
     border: dotted 1px;
     border-radius: 10px;
-    background-color: #bbbbbb;
+    width: 800px;
+    align-items: center;
 }
 
 .center-container {
@@ -42,4 +45,15 @@ body {
     border-radius: 5px;
     font-size: 100px;
   }
+
+  .landing-page-image {
+    width: 700px;
+    height: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
 
