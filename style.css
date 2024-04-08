@@ -15,8 +15,7 @@ body {
     height: 2vh;
     border: dotted 1px;
     border-radius: 10px;
-    width: 800px;
-    align-items: center;
+    width: 740px;
 }
 
 .center-container {
@@ -31,6 +30,9 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    outline: 1px dotted #000;
+    outline-offset: 25px; 
+    border-radius: 15px;
 }
 
 .landing-image:hover::after {
@@ -53,6 +55,9 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    outline: 1px dotted #000;
+    outline-offset: 25px; 
+    border-radius: 15px;
 }
 
 
