@@ -93,3 +93,7 @@ a:link:not(#exclude), a:visited:not(#exclude) {
 .p4 {
     opacity: 20%;
 }
+
+.p5 {
+    opacity: 10%;
+}
