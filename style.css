@@ -60,5 +60,8 @@ body {
     border-radius: 15px;
 }
 
-
-
+a:link:not(#exclude), a:visited:not(#exclude) {
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
