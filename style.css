@@ -97,3 +97,13 @@ a:link:not(#exclude), a:visited:not(#exclude) {
 .p5 {
     opacity: 10%;
 }
+
+.textcontainer {
+    position: fixed;
+    top: 150px;
+    width: 700px;
+    height: auto;
+    outline: 1px dotted #000;
+    outline-offset: 25px; 
+    border-radius: 15px;
+}
