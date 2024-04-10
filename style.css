@@ -99,7 +99,7 @@ a:link:not(#exclude), a:visited:not(#exclude) {
 }
 
 .textcontainer {
-  
+    margin-top: 10vh;
     width: 700px;
     height: auto;
     outline: 1px dotted #000;
@@ -111,6 +111,3 @@ a:link:not(#exclude), a:visited:not(#exclude) {
     flex-direction: column;
 }
 
-.textcontainer {
-    margin: 10vh;
-}
