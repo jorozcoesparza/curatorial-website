@@ -99,11 +99,18 @@ a:link:not(#exclude), a:visited:not(#exclude) {
 }
 
 .textcontainer {
-    position: fixed;
-    top: 150px;
+  
     width: 700px;
     height: auto;
     outline: 1px dotted #000;
     outline-offset: 25px; 
     border-radius: 15px;
+}
+
+#texts-directions {
+    flex-direction: column;
+}
+
+.textcontainer {
+    margin: 10vh;
 }
