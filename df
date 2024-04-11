@@ -1,0 +1,71 @@
+[33mcommit 08625c29112220291e0f9662d1dd0d9fa8115bfd[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: jorozcoesparza <jorozco842@gmail.com>
+Date:   Wed Apr 10 18:37:41 2024 -0500
+
+    Sets up containers for article links and other text types
+
+[33mcommit 1fe84275a4a1279e086566a30f2973ce98d1226b[m
+Author: jorozcoesparza <jorozco842@gmail.com>
+Date:   Wed Apr 10 18:26:14 2024 -0500
+
+    Rectifies texts flex direction and spacing issues
+
+[33mcommit 1176291141ce25b4eedfe941e57c49956b6f57e7[m
+Author: jorozcoesparza <jorozco842@gmail.com>
+Date:   Tue Apr 9 10:30:36 2024 -0500
+
+    Devised a container div to house links
+
+[33mcommit b3fd1469aa0a7ab0e8515148ce15aafadb81de7b[m
+Author: jorozcoesparza <jorozco842@gmail.com>
+Date:   Mon Apr 8 20:48:28 2024 -0500
+
+    Adds styling to about page.
+
+[33mcommit 0f03516ef0c48b33879362b1db654b2aabf57158[m
+Author: jorozcoesparza <jorozco842@gmail.com>
+Date:   Mon Apr 8 20:38:57 2024 -0500
+
+    Outlines About.html page
+
+[33mcommit a330d0e9fa8e472a8e8f36907363471855478c37[m
+Author: jorozcoesparza <jorozco842@gmail.com>
+Date:   Mon Apr 8 20:30:00 2024 -0500
+
+    Makes links to all pages functional.
+
+[33mcommit f8de2d6b0f5794b4aebd4e879ac2adef298edbc3[m
+Author: jorozcoesparza <jorozco842@gmail.com>
+Date:   Mon Apr 8 17:09:24 2024 -0500
+
+    Styles landing page. Identifies issue with container with future links and spacing.
+
+[33mcommit d812a7d63ef154ec189ab3b25154346ae66b56d0[m
+Author: jorozcoesparza <jorozco842@gmail.com>
+Date:   Mon Apr 8 16:49:24 2024 -0500
+
+    Creates and Styles landing page.
+
+[33mcommit 196265bf1118c115131a6517f3a580261c150186[m
+Author: jorozcoesparza <jorozco842@gmail.com>
+Date:   Mon Apr 8 16:38:53 2024 -0500
+
+    Adds caption to image and redirects user to the landing page.
+
+[33mcommit aec2bfb085feb11cd3b13569433f9cd3379d4eea[m
+Author: jorozcoesparza <jorozco842@gmail.com>
+Date:   Sun Apr 7 15:55:48 2024 -0500
+
+    Styles landing page with anchor image that serves as a link.
+
+[33mcommit bc545c0fb45c378e3ee42e37c870e2e53714530c[m
+Author: jorozcoesparza <jorozco842@gmail.com>
+Date:   Sat Apr 6 19:11:50 2024 -0500
+
+    Sets up html and css in index file. Also sets up begining styling for header.
+
+[33mcommit 9e946fe8a86293afc7609383de10ee2749b5425d[m
+Author: jorozcoesparza <136238605+jorozcoesparza@users.noreply.github.com>
+Date:   Sat Apr 6 18:39:25 2024 -0500
+
+    Initial commit
