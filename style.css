@@ -111,3 +111,15 @@ a:link:not(#exclude), a:visited:not(#exclude) {
     flex-direction: column;
 }
 
+.image-text-photography-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+
+}
+
+.photographypageimg {
+    width: 300px;
+    height: auto;
+}
+
