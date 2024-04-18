@@ -123,3 +123,8 @@ a:link:not(#exclude), a:visited:not(#exclude) {
     height: auto;
 }
 
+.photographydesc {
+    padding-top: 10px;
+    
+}
+
